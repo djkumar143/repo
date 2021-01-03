@@ -2,6 +2,6 @@
 
 int main(int argc, char **argv)
 {
-	printf("give me a bottle of rum!\n");
+	printf("give me a bottle rum!\n");
 	return 0;
 }
